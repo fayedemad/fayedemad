@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 🌱 I’m currently learning some DevOps, Software Architecture.<br>💬 Ask me about  Python Framworks, Back-end tools and concepts.<br>⚡ Fun fact: My name is Fayed XD
+🔭 🌱 I’m currently learning some DevOps, Software Architecture.<br>💬 Ask me about Back-end tools and concepts and anything .<br>⚡ Fun fact: My name is Fayed XD
 
 
 ## 🌐 Socials:
